@@ -21,9 +21,10 @@ In NFC Node API the following technologies are used::
 - [Tailwindcss](https://tailwindcss.com/) - Rapidly build modern websites without ever leaving your HTML.
 - [TypeScript](https://www.typescriptlang.org/) - TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 - [CSS](https://www.w3schools.com/css/css_intro.asp) - CSS is the language we use to style a Web page.
-- [nfc-node-api](https://github.com/findCarolinaCosta/nfc-node-api) Node API using express and sequelize, connected to a database.
-- [Eslint](https://eslint.org/) Find and fix problems in your code.
-- [Prettier](https://prettier.io/) Opinionated Code Formatter.
+- [nfc-node-api](https://github.com/findCarolinaCosta/nfc-node-api) - Node API using express and sequelize, connected to a database.
+- [Eslint](https://eslint.org/) - Find and fix problems in your code.
+- [Prettier](https://prettier.io/) - Opinionated Code Formatter.
+- [Axios](https://axios-http.com/docs/intro) - Axios is a promise-based HTTP Client for node.js and the browser
 
 ## Installation
 
